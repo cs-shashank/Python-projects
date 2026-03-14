@@ -48,3 +48,17 @@ python Numberguessinggame.py
 ## Learning Purpose
 
 This project helps beginners practice problem-solving skills and understand how loops and conditions work together in a real program.
+
+## Sample Output
+Enter your guess: 50
+Too high!
+
+Enter your guess: 25
+Too low!
+
+Enter your guess: 37
+Congratulations! You guessed the number in 3 attempts.
+
+## 👨‍💻 Author
+
+Shashank Dwivedi
