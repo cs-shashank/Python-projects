@@ -50,7 +50,7 @@ def main():
     """Main function to run the weather application."""
 
     # Store your OpenWeather API key here
-    api_key = "b5a1c9ce6c06cbd9d3c4df33efae09b5"
+    api_key = "your_API_key_here"
 
     # Infinite loop to allow multiple city searches
     while True:
